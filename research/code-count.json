@@ -1,0 +1,22 @@
+{
+  "method": "Non-empty non-line-comment physical lines; Dart lib plus Kotlin and Swift application files; tests, generated sources and build files excluded",
+  "files": {
+    "lib/main.dart": 96,
+    "lib/src/counter_method_channel.dart": 18,
+    "lib/src/image_basic_message_channel.dart": 18,
+    "lib/src/pet_list_screen.dart": 86,
+    "lib/src/add_pet_details.dart": 68,
+    "lib/src/pet_list_message_channel.dart": 56,
+    "lib/src/platform_image_demo.dart": 62,
+    "lib/src/accelerometer_event_channel.dart": 19,
+    "lib/src/event_channel_demo.dart": 43,
+    "lib/src/method_channel_demo.dart": 73,
+    "android/app/src/main/kotlin/dev/flutter/platform_channels/MainActivity.kt": 59,
+    "android/app/src/main/kotlin/dev/flutter/platform_channels/AccelerometerStreamHandler.kt": 29,
+    "ios/Runner/AppDelegate.swift": 90,
+    "ios/Runner/AccelerometerStreamHandler.swift": 24
+  },
+  "common": 539,
+  "total": 741,
+  "percent": 72.7
+}

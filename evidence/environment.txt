@@ -1,0 +1,15 @@
+Проверка окружения — 13.10.2026
+
+$ git --version
+git version 2.39.5 (Apple Git-154)
+
+$ node --version (portable LTS)
+v24.21.0
+
+Visual Studio Code: 1.138.0
+
+Репозиторий: https://github.com/drinkingsweets/crossplatform-practice-02
+
+$ git log --oneline
+a5a2fa4 docs: add practice topic, student and variant
+0b07db2 Initial commit
